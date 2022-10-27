@@ -1,4 +1,5 @@
 Americano
+Latte
 Commit test
 456
 
